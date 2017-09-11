@@ -1,0 +1,37 @@
+.center
+{
+
+     position: absolute;
+     top: 60%;
+     left:50%;
+     bottom: 10%;
+     right: 10%;
+
+     transform: translate(-50%,-50%);
+
+}
+.container
+{
+  margin-top: 10px;
+  width: 1000px;
+  height: 650px;
+  background-color: white;
+}
+
+.btn-xl {
+
+    padding: 10px 20px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.dec{
+
+    color: white;
+
+}
+.dec:hover
+{
+  color: white;
+    text-decoration: none;
+
+}
